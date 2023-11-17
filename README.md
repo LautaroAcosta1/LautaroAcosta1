@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700C0&center=true&random=false&width=435&lines=I'm+Lautaro+Acosta)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700C0&center=true&vCenter=true&random=false&width=435&lines=I'm+Lautaro+Acosta;Front-End+Web+Developer" alt="Typing SVG" /></a>
 <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/wallpapersden.com_cool-red-mountains-4k.jpg"><img>
 
 <!--
