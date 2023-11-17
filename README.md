@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700C0&center=true&random=false&width=435&lines=I'm+Lautaro+Acosta)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/wallpapersden.com_cool-red-mountains-4k.jpg"><img>
 
 <!--
 **LautaroAcosta1/LautaroAcosta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
