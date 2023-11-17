@@ -1,6 +1,7 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700C0&center=true&vCenter=true&random=false&width=500&lines=I'm+Lautaro+Acosta;Front-End+Web+Developer"/>
-
-<img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="150px"/>
+<div aling="center">
+<h1 aling="center"><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="150px"/></h1>
+<a aling="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=00DF1B&background=FF003600&random=false&width=500&lines=I'm+Lautaro+Acosta;Front-End+Web+Developer" alt="Typing SVG" /></a>
+</div>
 
 
 
