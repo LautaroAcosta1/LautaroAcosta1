@@ -51,15 +51,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 
-### <u> Backend Development + Database + DevOps + Deployment Technologies & Tools: </u>
-
-<br>
-
-<span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase logo" title="Firebase" height="25"/></span>
-&nbsp;
-
 ### <u> Version Control and Tools:</u>
 
 <br>
