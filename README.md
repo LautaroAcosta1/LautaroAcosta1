@@ -16,7 +16,7 @@
 
 - A passionate Self-taught Front-end developer.
 - University Student (Systems Technician).
-- Currently learning programming backend with Java.
+- Currently learning programming backend.
 - I’m currently open for an Intern or a new job opportunity.
 
 <br><br>
