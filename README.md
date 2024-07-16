@@ -16,7 +16,7 @@
 
 - A passionate Self-taught Front-end developer.
 - University Student (Systems Technician).
-- Currently learning programming backend at Coderhouse.
+- Currently learning programming backend with Java.
 - I’m currently open for an Intern or a new job opportunity.
 
 <br><br>
@@ -29,7 +29,6 @@
 
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python" height="25"/>
 </span>
 &nbsp;
 <span>
