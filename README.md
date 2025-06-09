@@ -8,22 +8,7 @@
 <br>
 
 
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-
-<br>
-
-- A passionate Self-taught Front-end developer.
-- University Student (Systems Technician).
-- Currently learning programming backend.
-- I’m currently open for an Intern or a new job opportunity.
-
-<br><br>
-
-
 ### <u> Languages: </u>
-
 
 <br>
 
